@@ -4,7 +4,12 @@ project(LearnCPP)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(LearnCPP main.cpp
-        main.cpp
-        main.cpp
-        PrintStandard.cpp)
+add_executable(LearnCPP v0/helloworld.cpp
+        v0/helloworld.cpp
+        v0/helloworld.cpp
+        v0/PrintStandard.cpp
+        Variables.cpp
+        Variables.cpp
+        InitialisationType.cpp
+        ListInitialisation.cpp
+        MaybeUnused.cpp)
