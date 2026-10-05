@@ -19,4 +19,6 @@ add_executable(LearnCPP c0/helloworld.cpp
         c1/LiteralsVariables.cpp
         c1/Expression.cpp
         c1/FirstProgram.cpp
+        c1/ChapterFinalQuizz.cpp
+        c1/ChapterFinalQuizz.cpp
 )
