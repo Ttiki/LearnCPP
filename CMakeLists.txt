@@ -35,4 +35,15 @@ add_executable(LearnCPP c0/helloworld.cpp
         c2/forward_declaration.cpp
         c2/Diff_Files/input.cpp
         c2/Diff_Files/main.cpp
+        c4/sizeof.cpp
+        c4/sizeof_var.cpp
+        c4/unsigned_overflow.cpp
+        c4/signed_unsigned.cpp
+        c4/signed_unsigned_2.cpp
+        c4/fast_least.cpp
+        c4/chars.cpp
+        c4/cin.get.cpp
+        c4/escape_sequence.cpp
+        c4/static_cast.cpp
+        c4/sign_conversion.cpp
 )
