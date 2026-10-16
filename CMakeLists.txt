@@ -46,4 +46,10 @@ add_executable(LearnCPP c0/helloworld.cpp
         c4/escape_sequence.cpp
         c4/static_cast.cpp
         c4/sign_conversion.cpp
+        c5/const_func.cpp
+        c5/const_macros.cpp
+        c5/literals.cpp
+        c5/compile_runtime_const.cpp
+        c5/const_non-const_example.cpp
+        c5/const_expression_compile-time.cpp
 )
