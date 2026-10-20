@@ -52,4 +52,6 @@ add_executable(LearnCPP c0/helloworld.cpp
         c5/compile_runtime_const.cpp
         c5/const_non-const_example.cpp
         c5/const_expression_compile-time.cpp
+        c5/constexpr-intro.cpp
+        c5/constexpr_func.cpp
 )
